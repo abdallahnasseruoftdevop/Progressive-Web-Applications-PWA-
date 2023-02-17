@@ -9,6 +9,7 @@ The application is a web text editor where the user can create notes or code sni
 
 🚀The application has been deployed to Heroku and the URL of the deployed application is:-
  
+https://progressive-applications.heroku.com/
 
 
 ## Table of Contents
